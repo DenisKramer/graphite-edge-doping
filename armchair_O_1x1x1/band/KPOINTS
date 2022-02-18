@@ -1,0 +1,13 @@
+Line_mode KPOINTS file
+40
+Line_mode
+Reciprocal
+0.0 0.0 0.0 ! \Gamma
+0.5 0.5 0.0 ! A
+
+0.5 0.5 0.0 ! A
+0.0 0.5 0.0 ! X
+
+0.0 0.5 0.0 ! X
+0.5 0.0 0.0 ! Z
+
